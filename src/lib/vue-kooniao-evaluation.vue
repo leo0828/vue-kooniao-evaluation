@@ -3,6 +3,6 @@
 </template>
 <script>
 export default {
-    name:'vue-kooniao-evaliation'
+    name:'vue-kooniao-evaluation'
 }
 </script>
