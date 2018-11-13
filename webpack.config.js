@@ -7,9 +7,9 @@ module.exports = {
   output: {
     path: path.resolve(__dirname, './dist'),
     publicPath: '/dist/',
-    filename: 'vue-kooniao-evaluation.js',
+    filename: 'vue-kn-eva.js',
     // filename: 'build.js',
-    library:'KooniaoEvaluation',
+    library:'KnEva',
     libraryTarget: 'umd',
     umdNamedDefine: true
   },
